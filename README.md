@@ -1,3 +1,5 @@
+**API for implementing a news feed.**
+
 
 1. **Composer:**
 
