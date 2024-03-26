@@ -31,7 +31,7 @@
     sail up -d
     ```
    
-   5. **How to use**
+5. **How to use**
    ```bash
    Search "HOW TO USE.txt" in project. 
       ```
