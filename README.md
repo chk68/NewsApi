@@ -1,5 +1,7 @@
 **API for implementing a news feed.**
 
+CRUD + parsing an existing news feed
+
 
 1. **Composer:**
 
